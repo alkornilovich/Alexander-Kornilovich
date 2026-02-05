@@ -1,5 +1,5 @@
 <!-- Приветствие -->
-<h1 align="center">Hi there 👋 I'm Александр Корнилович</h1>
+<h1 align="center">Hi there 👋 I'm Aleksandr Kornilovich</h1>
 <h3 align="center">Project Manager & Technical Thinker | Building Systems That Scale</h3>
 
 <p align="center">
