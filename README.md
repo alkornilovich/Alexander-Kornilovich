@@ -26,8 +26,6 @@ I design and scale systems that deliver real impact — whether it’s creating 
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="40" height="40" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/chatgpt/74AA9C" title="ChatGPT" alt="ChatGPT" width="40" height="40" />
-  &nbsp;
   <img src="https://cdn.simpleicons.org/html5/E34F26" title="HTML" alt="HTML" width="40" height="40" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40" />
