@@ -20,25 +20,27 @@ I design and scale systems that deliver real impact — whether it’s creating 
 
 <h3>🛠️ Languages & Tools</h3>
 <p align="center">
-  <img src="https://cdn.simpleicons.org/python/3776AB" title="Python" alt="Python" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/cplusplus/00599C" title="C++" alt="C++" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/sql/FF8000" title="SQL" alt="SQL" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="40" height="40" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftexcel/2173F3" title="Excel" alt="Excel" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/chatgpt/74AA9C" title="ChatGPT" alt="ChatGPT" width="40" height="40" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/git/F05032" title="Git" alt="Git" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" title="HTML" alt="HTML" width="40" height="40" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" title="VS Code" alt="VS Code" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/jupyter/FAA522" title="Jupyter" alt="Jupyter" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/linux/FCC624" title="Linux" alt="Linux" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/docker/2496ED" title="Docker" alt="Docker" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/anaconda/44A833" title="Anaconda" alt="Anaconda" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40" />
 </p>
 
 <!-- Контакты -->
