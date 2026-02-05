@@ -7,16 +7,16 @@
 </p>
 
 <!-- Описание -->
-I’m a **project manager with engineering roots** and a passion for structured problem-solving at the intersection of business and technology.  
-While I don’t write production code for clients, I **code daily for myself** — to prototype ideas, automate workflows, analyze data (SQL, Python), or model complex systems (from unit economics to rigid-body dynamics 🚗💨).
+I am a **project manager** with an engineering degree from MIPT and a passion for structured problem solving at the intersection of business and technology.
+Unfortunately, I don't write code for clients. However, I come across different programs every day — I create prototypes of ideas, MVP projects, automate workflows, analyze data (SQL, Python),  or model complex systems (from unit economics to rigid-body dynamics). My projects will be here.
 
 My superpowers:
 - 🎯 **End-to-end project leadership**: from OKRs & roadmaps to hiring, metrics, and change management (ADKAR/Kotter)
 - 📊 **Data-driven decision-making**: NPV/IRR models, unit economics, CJM, JTBD interviews
 - 🧠 **Systems thinking**: managing 4 businesses simultaneously, building scalable processes (Bitrix24, automated dashboards)
-- 💡 **Technical fluency**: Python / C++ / SQL / Excel — not for show, but to **understand what’s possible**
+- 💡 **Technical fluency**: Python / C++ / SQL / Excel
 
-I’ve trained 150+ students, launched financial literacy programs, and helped acquire 33K+ users — always with discipline, precision, and a bias for action.
+I design and scale systems that deliver real impact — whether it’s creating a financial literacy course for teenagers, growing a user base to 33,000 from scratch, or automating processes in a consulting company. Behind every number is a clear process, measurable metrics, and consistent execution.
 
 <h3>🛠️ Languages & Tools</h3>
 <p align="center">
